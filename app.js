@@ -30,3 +30,4 @@ fs.writeFileSync('pessoas.json', JSON.stringify(pessoas, null, 4))
 // Passo 5: Mostrar o array de pessoas no formarto de tabela
 
 console.table(pessoas)
+console.log(zug)
