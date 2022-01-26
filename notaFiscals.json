@@ -1,0 +1,15 @@
+{
+    "numeroNotaFiscal": "3123215435",
+    "cnpj": "289.042.918.045/11",
+    "listaDeProdutos": [
+                {
+                    "nome": "Produto1",
+                    "preco": "10"
+                },
+                {
+                    "nome": "produto2",
+                    "preco": "20"
+                }
+    ],
+    "valorTotal": "30"
+}
