@@ -11,7 +11,7 @@
     {
         "nome": "Antônio",
         "cpf": "777.777.777-77",
-        "casado": false,
+        "casado": true,
         "filhos": []
     },
     {
@@ -38,5 +38,13 @@
         "cpf": "999.888.777-55",
         "casado": false,
         "filhos": []
+    },
+    {
+        "nome": "Anderson Silva",
+        "cpf": "777.777.777-77",
+        "casado": false,
+        "filhos": [
+            "Maria"
+        ]
     }
 ]
