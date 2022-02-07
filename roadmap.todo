@@ -18,7 +18,7 @@
 
 Fase 3: Implementar a alteração de pessoas:
     ✔ Criar um arquivo alterar.js @done(22-02-02 11:09)
-    ☐ Neste arquivo, capturar os dados informados pelo usuário
+    ✔ Neste arquivo, capturar os dados informados pelo usuário @done(22-02-02 11:31)
        os dados imputados na seguinte ordem
        . posição da pessoa
        . nome
